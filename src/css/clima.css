@@ -1,0 +1,31 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+table{
+    margin: 60px auto;
+}
+
+th{
+    color: #c13b00;
+}
+
+th, td, tr{
+    padding: 15px 20px;
+    border: 1px solid black;
+}
+
+button, .btn-cancel a{
+    padding: 10px;
+}
+
+
+.admin{
+    text-align: center;
+}
+
+.title{
+    margin-top: 20px;
+}

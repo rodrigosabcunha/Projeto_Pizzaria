@@ -1,0 +1,62 @@
+.title{
+    padding: 20px 20px 10px 20px;
+    font-size: 25px;
+  }
+
+.tabela{
+    padding: 20px 20px;
+}
+
+.texto{
+    width: 470px;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.xburguer{
+    border-radius: 7px;
+    max-width: 200px;
+    max-height: 250px; 
+}
+
+td{
+    font-size: 20px;
+    text-align: center;
+    box-shadow: 0px 1px 2px 0px;
+    border-radius: 7px;
+}
+.bebidas{
+    font-size: 50px;
+    
+}
+.imagem{
+    box-shadow: 0px 0px 0px 0px;
+}
+@media screen and (max-width:  768px) {
+    table tbody td{
+        display: flex;
+        flex-direction: column;
+        padding: 7px;
+        
+    }
+    .imagem{
+        align-items: center;
+        box-shadow: 0px 0px 0px 0px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+    .texto{
+        width: 400px;
+    } 
+}
+
+@media screen and (max-width:  1180px) {
+    .imagem{
+        box-shadow: 0px 0px 0px 0px;
+        column-width: 50%;
+        padding: 2px;
+
+}
+}

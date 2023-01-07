@@ -1,0 +1,130 @@
+.content {
+    max-width: 460px;
+    margin: 15px auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 15px;
+    box-shadow: 0px 0px 1px black;
+  }
+  
+  .voltar {
+    width: max-content;
+    display: flex;
+    align-items: center;
+  }
+  
+  .voltar:hover {
+    cursor: pointer;
+  }
+  
+  .voltar a {
+    text-decoration: none;
+    color: #160201;
+  }
+  
+  .arrow-left {
+    width: 35px;
+  }
+  
+  .lock-login {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .image-login {
+    width: 150px;
+    border-radius: 50%;
+  }
+  
+  .reserved {
+    width: 100%;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .form-control {
+    margin-top: 15px;
+  }
+  
+  .boas-vindas {
+    font-size: 20px;
+    text-align: center;
+  }
+  /* 
+  .formulario {
+    margin-top: 15px;
+  } */
+  
+  .controle-input {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .campos {
+    padding: 12px 10px;
+    width: 80%;
+    border-radius: 5px;
+    border: 1px solid gray;
+  }
+  
+  .campos:focus {
+    outline: none;
+  }
+  
+  .forgot-password {
+    margin-bottom: 10px;
+  }
+  
+  .forgot-password > a {
+    text-decoration: none;
+    color: #160201;
+  }
+  
+  .logar {
+    padding: 5px;
+    width: 80%;
+    font-size: 20px;
+    background-color: #38b88b;
+    border-color: #38b88b;
+    border-style: solid;
+    color: white;
+  }
+  
+  .logar:hover {
+    cursor: pointer;
+    background-color: #288665;
+    border-color: #288665;
+  }
+  
+  .logar:focus {
+    background-color: #38b88b;
+    border-color: #38b88b;
+  }
+  
+  .create-account {
+    margin-top: 20px;
+  }
+  
+  .create-account > a {
+    text-decoration: none;
+    color: #160201;
+  }
+  
+  label{
+      display: block;
+      text-align: left;
+      margin: 15px 45px 5px 45px;
+  }
+
+  .warning {
+    margin: 10px 45px 0px 45px;
+    text-align: center;
+    color: #0000008a;
+  }
+
+  .error{
+    text-align: center;
+    color: red;
+    margin: 10px 45px;
+  }

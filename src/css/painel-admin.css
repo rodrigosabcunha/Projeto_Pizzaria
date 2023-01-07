@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.corpo{
+    color: #17264e;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.title{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.controle{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.adjuste-admin{
+    max-width: 350px;
+}
+
+.admin{
+    text-align: center;
+    max-width: 350px;
+    
+}
+
+.mensal{
+    text-align: center;
+    width: 600px;
+}
+
+.adjuste-mensal{
+    max-width: 600px;
+}
+
+
+.titulos-graficos{
+    padding-bottom: 10px;
+}
+
+
+@media (max-width: 1000px){
+    .controle{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .admin{
+        width: 100%;
+        max-width: 100%;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+
+
+    .mensal{
+        margin-top: 50px;
+        width: 100%;
+        max-width: 100%;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+}
