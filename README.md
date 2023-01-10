@@ -10,7 +10,7 @@ dos alimentos mais vendidos no setor de fast food. E com isso ajudar na divulga�
 <ul>
   <li>O projeto desenvolvido teve o intuito além de acadêmico, a possibilidade de ser um projeto para atender futuras pizzarias de bairros e propocionar 
     uma maior facilidade ao cliente e automatizar parte do atendimento da empresa.</li>
-  <li> Oferecer aos clientes de forma antecipada as reversas ao local, dando aos clientes a opção de escolha nos espaços do estabelicimentos.</li>
+  <li> Oferecer aos clientes de forma antecipada as reversas ao local, dando aos clientes a opção de escolha nos espaços do estabelecimentos.</li>
   <li> Tornar o ambiente mais interativo. Buscando a fidelização dos clientes através da Aplicação Web. </li>
 </ul>
 <br>
