@@ -40,8 +40,6 @@ dos alimentos mais vendidos no setor de fast food. E com isso ajudar na divulga√
 <br> 
 <ul>
   <li> PHP </li>
-  <li> HTML 5 </li>
-  <li> CSS 3 </li>
   <li> Javascript </li>
 </ul>
 <br>
